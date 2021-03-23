@@ -30,7 +30,7 @@
 
     <preference name="Fullscreen" value="false" />
 
-    <icon backgroud="res/android/icon/hdpi_1616531280_bff8da66300416e846a6.png" density="hdpi" gap:platform="android" gap:qualifier="hdpi" foreground="res/android/icon/hdpi_1616531280_bff8da66300416e846a6.png" />
+    <icon backgroud="res/android/icon/hdpi_1616531280_bff8da66300416e846a6.png" gap:density="hdpi" gap:platform="android" gap:qualifier="hdpi" foreground="res/android/icon/hdpi_1616531280_bff8da66300416e846a6.png" />
 
         <platform name="android">
         
