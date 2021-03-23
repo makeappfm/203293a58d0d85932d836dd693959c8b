@@ -34,6 +34,8 @@
             
         <icon target="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" backgroud="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" density="hdpi" foreground="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" />
             
+        <roundIcon target="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" backgroud="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" density="hdpi" foreground="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" />
+            
             
         <splash src="res/screen/android/hdpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-hdpi" />
         <splash src="res/screen/android/ldpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-ldpi" />
