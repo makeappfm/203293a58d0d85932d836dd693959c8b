@@ -32,13 +32,7 @@
 
 
     <platform name="android">
-        <icon backgroud="res/android/icon/ldpi_1616531280_bff8da66300416e846a6.png" density="ldpi" gap:qualifier="ldpi" foreground="res/android/icon/ldpi_1616531280_bff8da66300416e846a6.png" />
-        <icon backgroud="res/android/icon/mdpi_1616531280_bff8da66300416e846a6.png" density="mdpi" gap:qualifier="mdpi" foreground="res/android/icon/mdpi_1616531280_bff8da66300416e846a6.png" />
-        <icon backgroud="res/android/icon/hdpi_1616531280_bff8da66300416e846a6.png" density="hdpi" gap:qualifier="hdpi" foreground="res/android/icon/hdpi_1616531280_bff8da66300416e846a6.png" />
-        <icon backgroud="res/android/icon/xhdpi_1616531280_bff8da66300416e846a6.png" density="xhdpi" gap:qualifier="xhdpi" foreground="res/android/icon/xhdpi_1616531280_bff8da66300416e846a6.png" />
-        <icon backgroud="res/android/icon/xxhdpi_1616531280_bff8da66300416e846a6.png" density="xxhdpi" gap:qualifier="xxhdpi" foreground="res/android/icon/xxhdpi_1616531280_bff8da66300416e846a6.png" />
-        <icon backgroud="res/android/icon/xxxhdpi_1616531280_bff8da66300416e846a6.png" density="xxxhdpi" gap:qualifier="xxxhdpi" foreground="res/android/icon/xxxhdpi_1616531280_bff8da66300416e846a6.png" />
-
+        
         <splash src="res/android/screen/hdpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-hdpi" />
         <splash src="res/android/screen/ldpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-ldpi" />
         <splash src="res/android/screen/mdpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-mdpi" />
