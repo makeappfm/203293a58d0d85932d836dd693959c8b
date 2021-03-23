@@ -30,20 +30,20 @@
 
     <preference name="Fullscreen" value="false" />
 
-    <icon backgroud="res/android/icon/hdpi_1616531280_bff8da66300416e846a6.png" gap:density="hdpi" gap:platform="android" gap:qualifier="hdpi" foreground="res/android/icon/hdpi_1616531280_bff8da66300416e846a6.png" />
+    <icon src="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" density="hdpi" gap:platform="android" foreground="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" />
 
         <platform name="android">
         
             
             
-        <splash src="res/android/screen/hdpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-hdpi" />
-        <splash src="res/android/screen/ldpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-ldpi" />
-        <splash src="res/android/screen/mdpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-mdpi" />
-        <splash src="res/android/screen/xhdpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-xhdpi" />
-        <splash src="res/android/screen/hdpi_land_1616531331_3a6c3c912459c1ae7fde.png" density="land-hdpi" />
-        <splash src="res/android/screen/ldpi_land_1616531331_3a6c3c912459c1ae7fde.png" density="land-ldpi"/>
-        <splash src="res/android/screen/mdpi_land_1616531331_3a6c3c912459c1ae7fde.png" density="land-mdpi"/>
-        <splash src="res/android/screen/xhdpi_land_1616531331_3a6c3c912459c1ae7fde.png" density="land-xhdpi"/>
+        <splash src="res/screen/android/hdpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-hdpi" />
+        <splash src="res/screen/android/ldpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-ldpi" />
+        <splash src="res/screen/android/mdpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-mdpi" />
+        <splash src="res/screen/android/xhdpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-xhdpi" />
+        <splash src="res/screen/android/hdpi_land_1616531331_3a6c3c912459c1ae7fde.png" density="land-hdpi" />
+        <splash src="res/screen/android/ldpi_land_1616531331_3a6c3c912459c1ae7fde.png" density="land-ldpi"/>
+        <splash src="res/screen/android/mdpi_land_1616531331_3a6c3c912459c1ae7fde.png" density="land-mdpi"/>
+        <splash src="res/screen/android/xhdpi_land_1616531331_3a6c3c912459c1ae7fde.png" density="land-xhdpi"/>
     </platform>
 
     <access origin='*'/>
