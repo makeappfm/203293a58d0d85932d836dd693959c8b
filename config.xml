@@ -31,12 +31,12 @@
     <preference name="Fullscreen" value="false" />
 
     <platform name="android">
-        <icon backgroud="/res/icon/android/ldpi_1616531280_bff8da66300416e846a6.png" density="ldpi" gap:qualifier="ldpi" foreground="/res/icon/android/ldpi_1616531280_bff8da66300416e846a6.png" />
-        <icon backgroud="/res/icon/android/mdpi_1616531280_bff8da66300416e846a6.png" density="mdpi" gap:qualifier="mdpi" foreground="/res/icon/android/mdpi_1616531280_bff8da66300416e846a6.png" />
-        <icon backgroud="/res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" density="hdpi" gap:qualifier="hdpi" foreground="/res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" />
-        <icon backgroud="/res/icon/android/xhdpi_1616531280_bff8da66300416e846a6.png" density="xhdpi" gap:qualifier="xhdpi" foreground="/res/icon/android/xhdpi_1616531280_bff8da66300416e846a6.png" />
-        <icon backgroud="/res/icon/android/xxhdpi_1616531280_bff8da66300416e846a6.png" density="xxhdpi" gap:qualifier="xxhdpi" foreground="/res/icon/android/xxhdpi_1616531280_bff8da66300416e846a6.png" />
-        <icon backgroud="/res/icon/android/xxxhdpi_1616531280_bff8da66300416e846a6.png" density="xxxhdpi" gap:qualifier="xxxhdpi" foreground="/res/icon/android/xxxhdpi_1616531280_bff8da66300416e846a6.png" />
+        <icon src="res/icon/android/ldpi_1616531280_bff8da66300416e846a6.png" background="res/icon/android/ldpi_1616531280_bff8da66300416e846a6.png" density="ldpi" gap:qualifier="ldpi" foreground="res/icon/android/ldpi_1616531280_bff8da66300416e846a6.png" />
+        <icon src="res/icon/android/mdpi_1616531280_bff8da66300416e846a6.png" background="res/icon/android/mdpi_1616531280_bff8da66300416e846a6.png" density="mdpi" gap:qualifier="mdpi" foreground="res/icon/android/mdpi_1616531280_bff8da66300416e846a6.png" />
+        <icon src="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" background="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" density="hdpi" gap:qualifier="hdpi" foreground="res/icon/android/hdpi_1616531280_bff8da66300416e846a6.png" />
+        <icon src="res/icon/android/xhdpi_1616531280_bff8da66300416e846a6.png" background="res/icon/android/xhdpi_1616531280_bff8da66300416e846a6.png" density="xhdpi" gap:qualifier="xhdpi" foreground="res/icon/android/xhdpi_1616531280_bff8da66300416e846a6.png" />
+        <icon src="res/icon/android/xxhdpi_1616531280_bff8da66300416e846a6.png" background="res/icon/android/xxhdpi_1616531280_bff8da66300416e846a6.png" density="xxhdpi" gap:qualifier="xxhdpi" foreground="res/icon/android/xxhdpi_1616531280_bff8da66300416e846a6.png" />
+        <icon src="res/icon/android/xxxhdpi_1616531280_bff8da66300416e846a6.png" background="res/icon/android/xxxhdpi_1616531280_bff8da66300416e846a6.png" density="xxxhdpi" gap:qualifier="xxxhdpi" foreground="res/icon/android/xxxhdpi_1616531280_bff8da66300416e846a6.png" />
             
         <splash src="/res/screen/android/hdpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-hdpi" />
         <splash src="/res/screen/android/ldpi_port_1616531331_3a6c3c912459c1ae7fde.png" density="port-ldpi" />
